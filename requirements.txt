@@ -1,9 +1,4 @@
-matplotlib
-numpy 
 opencv-python 
-pykitti 
-scipy
-sklearn
 tensorflow
 tqdm
 gmplot
