@@ -5,14 +5,14 @@
 ---
 
 ## Project Overview  
-This repository contains materials and resources for course 0510_7951, focusing on mapping and perception tasks for autonomous robots.
+This repository contains materials and resources for the course, focusing on mapping and perception tasks for autonomous robots.
 
 ---
 
 ## Materials Included  
 
 1. **Example Records**  
-   - Subset of the **KITTI Dataset** (Records `117`and '0013')  
+   - Subset of the **KITTI Dataset** (Records `117`and `013`)  
    - Note: This example includes only a partial dataset, not the complete record.
 
 2. **Pretrained Model**  
