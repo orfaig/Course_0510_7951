@@ -1,8 +1,8 @@
-opencv-python 
+scikit-learn
+opencv-python
 tensorflow
 tqdm
 gmplot
-plotly 
+plotly
 open3d
 pymap3d
-sklrean
